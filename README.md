@@ -1,7 +1,6 @@
 # Ouzair Patel
 
 Élève ingénieur **Data & Applications** à l'ESIEE Paris, après deux ans de classe préparatoire MP.
-Je cherche une **alternance en data**.
 
 ## Projet phare
 
