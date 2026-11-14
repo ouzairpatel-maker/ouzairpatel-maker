@@ -1,19 +1,25 @@
-# Ouzair Patel
+### Hi, I'm Ouzair 👋
 
-Élève ingénieur **Data & Applications** à l'ESIEE Paris, après deux ans de classe préparatoire MP.
+Data & Applications engineering student at **ESIEE Paris**, after two years of MP classes préparatoires.
+I like building data tools that are tested, reproducible and honest about their limits.
 
-## Projet phare
+🎯 **Looking for a data / AI apprenticeship (alternance) starting September 2027.**
 
-**[wave-breaking-bathymetry](https://github.com/ouzairpatel-maker/wave-breaking-bathymetry)** : comment la pente d'un récif façonne une vague déferlante.
+---
 
-Données de terrain (La Réunion) → pipeline validé → modèle physique vérifié → Monte Carlo (1 000 tirages) → résultats reproductibles en une commande.
+#### 🔎 [ozr-prospecting](https://github.com/ouzairpatel-maker/ozr-prospecting)
+A compliance-first B2B prospecting pipeline that I run in production for my small web studio.
+It finds French businesses with no website from official registries, checks that claim, drafts a short e-mail, and sends nothing without a signed human approval.
+`Python` `SQLAlchemy` `SQLite` `httpx` `LLM` `Ed25519` `pytest` `Docker` `GitHub Actions` · 220 tests · GDPR by design
 
-`Python` · `NumPy` · `pandas` · `pytest` · `GitHub Actions`
+#### 🌊 [wave-breaking-bathymetry](https://github.com/ouzairpatel-maker/wave-breaking-bathymetry)
+How the slope of a reef changes the shape of breaking waves. Field data from La Réunion, a validated pipeline, a checked physical model, and a 1,000-draw Monte Carlo simulation, all reproducible with one command (two-person project).
+`Python` `NumPy` `pandas` `pytest` `GitHub Actions`
 
-## Aussi
+---
 
-Sites web pour des commerces à La Réunion (HTML/CSS/JavaScript, Shopify).
+**Also:** websites for small businesses in La Réunion (HTML/CSS/JavaScript, Shopify).
 
-## Contact
+**Stack:** Python · pandas · NumPy · SQL · SQLAlchemy · pytest · Docker · Git · GitHub Actions
 
-[LinkedIn](https://www.linkedin.com/in/ouzair-p-937104207/)
+📫 [LinkedIn](https://www.linkedin.com/in/ouzair-patel-937104207/)
